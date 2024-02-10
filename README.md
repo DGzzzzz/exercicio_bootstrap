@@ -1,15 +1,5 @@
-# Módulo 12: Fundamentos Bootstrap:
-Conhecido os fundamentos do framework Bootstrap:
-- Grids;
-- Tipografia;
-- Tabelas;
-- Botões;
-- Accordions;
-- collapse;
-- Alertas;
-- Formulários.
+# Exercício do Módulo 12: Fundamentos Bootstrap:
+Desenvolvido um formulário com botão com bootstrap
 
-# Material de apoio:
-[mod12Bootstrap](https://github.com/DGzzzzz/exercicio_bootstrap/blob/exercicio_bootstrap/mod12Bootstrap.pdf)
-
-[mod12gBootstrap](https://github.com/DGzzzzz/exercicio_bootstrap/blob/exercicio_bootstrap/mod12gBootstrap.pdf)
+# Preview
+![image](https://github.com/DGzzzzz/exercicio_bootstrap/assets/132670815/53c3fdbf-d0f5-4d8d-8cb0-06a7b06ef91f)
